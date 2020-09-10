@@ -1,7 +1,7 @@
 <template>
   <div class="footer-section">
     <div class="container">
-      <h1>Interested in doing a project together?</h1>
+      <h4>If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch.</h4>
       <button class="button-wrapper" id="Email Me" ><a href = "mailto: ar.srikanth29@gmail.com" target="_top">Email Me</a></button>  
     </div>
   </div>

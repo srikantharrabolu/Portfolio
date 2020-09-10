@@ -2,7 +2,6 @@
   <div class="image-content-section">
       <img src="../assets/background2.jpg"/>
     <div class="content">
-        <!-- <header-section /> -->
         <div class="content-section">
             <h1>Hello, my name is Srikanth. I am a Front End Developer living in Wichita, KS.</h1>           
             <div class="dropdown">
@@ -13,29 +12,15 @@
                     <router-link to='/projects'><p>PROJECTS</p></router-link>
                 </div>
             </div>
-        </div>
-        <!-- <div class="content-section">
-            <h1>Recent Projects: Samples of some of my work from the past year.</h1>
-            <h3>Latest Projects</h3>
-            <img />
-            <h3>interactive Design/Front end development</h3>
-            <h3>Onpoint Engineering solutions</h3>
-           
-        </div> -->
-       <!-- <footer-section /> -->
-       
+        </div>       
     </div>
   </div>
 </template>
 
 <script>
-// import HeaderSection from './HeaderSection'
-// import FooterSection from './FooterSection'
 export default {
   name: 'image-content-section',
   components: {
-    //   HeaderSection,
-    //   FooterSection
   },
   data (){
       return {

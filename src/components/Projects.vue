@@ -9,7 +9,7 @@
        </div>
       
        <h4> INTERACTION DESIGN / FRONT END DEVELOPMENT </h4>
-       <h3> EMA-EMBER MOBILE APPLICATION </h3>
+       <h3> EMA-Ember Mobile Application </h3>
 
        <div class="onpoint-dev">
           <img src="../assets/map-view.png">
@@ -18,7 +18,7 @@
           <img src="../assets/utilities.png">
        </div>
       
-       <h4> INTERACTION DESIGN / FRONT END DEVELOPMENT </h4>
+       <h4> FRONT END DEVELOPMENT </h4>
        <h3> Onpoint By Koch Engineering solutions. </h3>
   </div>
 </template>

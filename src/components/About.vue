@@ -7,8 +7,8 @@
             Currently I am not accepting freelance work, but I'd love to get coffee and get to know you, so don’t hesitate to get in touch. </p>
             <h3>Services</h3>
             <h4>FRONT END DEVELOPMENT</h4>
-            <p>Front End Development is building out the visual components of a website. Using HTML, CSS , and Javascript,
-            I build fast, interactive websites. This also may include a CMS, API's or other integrations.
+            <p>I'm a developer, so I know how to create your website to run across devices using the latest technologies available. Front End Development is building out the visual components of a website. Using HTML, CSS , and Javascript,
+            I build fast, interactive websites. This also may include API's or other integrations.
             </p>
   </div>
 </template>
