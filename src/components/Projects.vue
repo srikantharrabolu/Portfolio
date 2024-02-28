@@ -1,6 +1,6 @@
 <template>
   <div class="projects">
-       <h1> Recent Projects: Samples of some of my work from the past year. </h1>
+       <h1> Recent Projects: Samples of some of my work from the past clients. </h1>
        <h3> Latest Projects </h3>
        <div class="ema">
           <img src="../assets/Log_in_Email.png">

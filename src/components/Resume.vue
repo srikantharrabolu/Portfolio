@@ -2,7 +2,8 @@
   <div class="resume">
     <div class="resume-file">
         <button class="button-wrapper">
-          <a href="https://docs.google.com/document/d/1Ea2fyOTOv8woEIq2yMzIs7pSGFvli9iJ/export?format=pdf" download>Download Resume</a>
+          <!-- <a href="https://docs.google.com/document/d/1Ea2fyOTOv8woEIq2yMzIs7pSGFvli9iJ/export?format=pdf" download>Download Resume</a> -->
+          <a href="https://flowcv.com/resume/rvlu7ng8pp">Download Resume</a>
         </button>
     </div>
     <div class="resume-projects">

@@ -3,7 +3,7 @@
       <img src="../assets/background2.jpg"/>
     <div class="content">
         <div class="content-section">
-            <h1>Hello, my name is Srikanth. I am a Front End Developer living in Wichita, KS.</h1>           
+            <h1>Hello, my name is Srikanth. I am a Front End Developer living in Houston, Texas.</h1>           
             <div class="dropdown">
                 <button class="button-wrapper" id="view-profile" @click="viewProfile">View Profile</button>               
                 <div class="button-dropdown" v-if="viewDropDown">
